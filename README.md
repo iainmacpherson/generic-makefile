@@ -4,5 +4,5 @@ This is my generic Makefile for small C/C++ projects. Useful when you want to qu
 ## Usage
 1. Place the Makefile in the root of your project folder.
 2. Put your source files in a directory called src.
-3. Run `make` to build. (output will be in a created build directory)
+3. Run `make` to build. (You will find the newly created binary in the "build" directory, if it does not exist it will be created)
 4. Edit Makefile as necessary for the application.
